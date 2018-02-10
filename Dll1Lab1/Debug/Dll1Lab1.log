@@ -1,0 +1,13 @@
+﻿  MatrixTranspose.cpp
+c:\users\idrees\source\repos\dll1lab1\dll1lab1\matrixtranspose.cpp(12): warning C4273: 'MathLibrary::mattranspose': inconsistent dll linkage
+  c:\users\idrees\source\repos\dll1lab1\dll1lab1\mathlibrary.h(11): note: see previous definition of 'mattranspose'
+  MatrixMultiplication.cpp
+c:\users\idrees\source\repos\dll1lab1\dll1lab1\matrixmultiplication.cpp(12): warning C4273: 'MathLibrary::multiplication': inconsistent dll linkage
+  c:\users\idrees\source\repos\dll1lab1\dll1lab1\mathlibrary.h(10): note: see previous definition of 'multiplication'
+  MatrixAddSub.cpp
+c:\users\idrees\source\repos\dll1lab1\dll1lab1\matrixaddsub.cpp(12): warning C4273: 'MathLibrary::sum': inconsistent dll linkage
+  c:\users\idrees\source\repos\dll1lab1\dll1lab1\mathlibrary.h(12): note: see previous definition of 'sum'
+c:\users\idrees\source\repos\dll1lab1\dll1lab1\matrixaddsub.cpp(64): warning C4273: 'MathLibrary::subtract': inconsistent dll linkage
+  c:\users\idrees\source\repos\dll1lab1\dll1lab1\mathlibrary.h(13): note: see previous definition of 'subtract'
+  Generating Code...
+  Dll1Lab1.vcxproj -> C:\Users\Idrees\source\repos\Dll1Lab1\Debug\Dll1Lab1.dll
